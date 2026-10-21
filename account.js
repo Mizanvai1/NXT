@@ -1,23 +1,23 @@
 // =======================================================
 // WEBSITE NAME (BDTupUp)
 // =======================================================
-var website_name =BDTupUp
-
+var website_name =
+BDTupUp
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
 var telegram_channel_link = "telegram channel link";
-
+https://t.me/Mahi_7100
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
 var telegram_group_link = "telegram group link";
-
+https://t.me/Mahi_7100
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
-
+https://youtube.com/@mrtop1gamer-r4k?si=74KnPz3uHRb9AxsJ
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
